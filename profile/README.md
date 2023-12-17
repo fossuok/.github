@@ -1,5 +1,11 @@
 # Welcome to the FOSS Community - University of Kelaniya 🚀
 
+<img
+    src="foss_logo_l_dark_800px.png"
+    alt="FOSS Logo"
+    width="350px"
+  />
+
 Hello future FOSS enthusiasts! Whether you're a seasoned wizard or a coding newbie, you've found your way to the right place. Welcome to the beginning of our exciting journey into the world of Free and Open Source Software at the University of Kelaniya.
 
 ## About Us
