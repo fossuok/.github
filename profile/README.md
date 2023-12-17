@@ -1,7 +1,7 @@
 # Welcome to the FOSS Community - University of Kelaniya 🚀
 
 <img
-    src="foss_logo_l_dark_800px.png"
+    src="https://raw.githubusercontent.com/fossuok/.github/main/profile/foss_logo_l_dark_800px.png"
     alt="FOSS Logo"
     width="350px"
   />
